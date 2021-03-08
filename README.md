@@ -10,20 +10,26 @@ https://www.npmjs.com/package/angular-user-idle
 https://www.chartjs.org/
 ````
 
-## Build and Run project
+## Build and Run le projet en local
 `````
-Run below commands in console
+Exécuter les commandes ci-dessous dans la console:
 1. npm install
 2. ng build
 3. ng serve
 `````
 
-## features
+## caracteristiques
 
+1.Connexion
+2.Accueil dashbord
+3.Listes des etudiants avec les assignments
+4.Liste des assignments
+5.Ajout d'assignments
+6.Suppression des assignments
 ````
 
-## Browser support
+## navigateurs adaptés
 ````
-
+tous les navigateurs
 ````
 
